@@ -1,0 +1,27 @@
+{
+  "name": "salesmanago",
+  "version": "0.1.0",
+  "description": "A node wrapper for the salesmanago API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/themasters/node-salesmanago.git"
+  },
+  "keywords": [
+    "salesmanago",
+    "client",
+    "API"
+  ],
+  "author": {
+    "name": "Pikaj",
+    "url": "https://github.com/Pikaj/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "object.assign": "^4.0.3",
+    "request": "2.69.0"
+  }
+}
