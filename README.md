@@ -20,6 +20,10 @@ npm install salesmanago
 
     client.contacts.create(data, cb)
 
+### Tags
+
+    client.tags.get(data, cb)
+
 ### SALESmanago API
 
     https://www.salesmanago.pl/marketing-automation/developers.htm
