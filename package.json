@@ -23,6 +23,6 @@
   "dependencies": {
     "object.assign": "^4.0.3",
     "request": "2.69.0",
-    "sha1": "^1.1.1",
+    "sha1": "^1.1.1"
   }
 }
